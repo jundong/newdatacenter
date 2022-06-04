@@ -1,0 +1,5 @@
+/logs/backend/*
+/logs/celery/*
+*.imi
+.idea
+.vscode
